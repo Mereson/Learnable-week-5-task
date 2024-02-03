@@ -9,6 +9,7 @@ Html and css project
 ### Create the structure of your favorite animal trading card and style with css
 
 - Created HTML structure for trading card
-- Added css styling to trading card
+- Added css styling to trading
+  > Hover on the card to display animal info
 
 ---
